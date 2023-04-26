@@ -413,3 +413,10 @@ img {
             line-height: 24px;
             color: #F4F4FD;
         }
+
+        .footer-text{
+            font-weight: 500;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: var(--main-bg-color);
+        }
