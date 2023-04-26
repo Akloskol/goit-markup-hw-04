@@ -377,6 +377,10 @@ img {
                 align-items: baseline;
             }
 
+            .logo-and-paragraph {
+                margin-right: 120px;
+                /* або можна використати gap: 120px; */
+            }
         
         .logo-link {
             display: inline-block;
