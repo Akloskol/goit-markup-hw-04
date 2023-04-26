@@ -445,6 +445,6 @@ img {
             justify-content: center;
         }
 
-            .social-item:is(:hover, :focus){
+            .social-link:is(:hover, :focus){
                 background-color: #31d0aa;
             }
