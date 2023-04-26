@@ -444,3 +444,7 @@ img {
             align-items: center;
             justify-content: center;
         }
+
+            .social-item:is(:hover, :focus){
+                background-color: #31d0aa;
+            }
