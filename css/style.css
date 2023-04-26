@@ -421,3 +421,16 @@ img {
             color: var(--main-bg-color);
             margin-bottom: 16px;
         }
+
+        .social-list {
+            /* CSS properties for social media list */
+            display: flex;
+            gap: 16px;
+            list-style: none;
+        }
+
+        .social-item:first-child {
+            /* CSS properties for first social media list item */
+            width: 40px;
+            height: 40px;
+        }
