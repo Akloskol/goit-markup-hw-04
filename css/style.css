@@ -271,6 +271,7 @@ img {
         }
         .customer-item{
             width: calc((100% - 120px) / 6);
+            height: 88px;
             
         }
         .customer-link{
