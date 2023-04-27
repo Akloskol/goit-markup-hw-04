@@ -269,6 +269,9 @@ img {
             display: flex;
             gap: 24px;
         }
+        .customer-item{
+            width: calc((100% - 120px) / 6);
+        }
     .photo {
         background-color: #FFFFFF;
     }
