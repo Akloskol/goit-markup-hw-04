@@ -254,6 +254,12 @@ img {
         text-align: center;
     }
 
+    .name-list{
+        display: flex;
+        justify-content: center;
+        gap: 24px;
+    }
+
     /* Section-5 */
 
         .customer-section{
