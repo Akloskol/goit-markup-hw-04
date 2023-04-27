@@ -5,6 +5,7 @@
     --main-mg-color: #434455;
     --second-background-color: #404bbf;
     --main-ag-color: #F4F4FD;
+    --main-qg-color:#8e8f99;
 }
 
 body {
@@ -282,6 +283,12 @@ img {
             display: flex;
             align-items: center;
             justify-content: center;
+            color: var(--main-qg-color);
+        }
+
+        .customer-link:is(:hover, :focus){
+            border-color: #404bbf;
+            color: #404bbf;
         }
 
     .photo {
