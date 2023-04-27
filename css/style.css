@@ -253,6 +253,13 @@ img {
         text-align: center;
     }
 
+    /* Section-5 */
+
+        .customer-section{
+            padding-top: 120px;
+            padding-bottom: 120px;
+            
+        }
     .photo {
         background-color: #FFFFFF;
     }
