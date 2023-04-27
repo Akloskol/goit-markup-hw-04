@@ -265,6 +265,10 @@ img {
             color: var(--main-vg-color);
             margin-bottom: 72px;
         }
+        .section-customer-list{
+            display: flex;
+            gap: 24px;
+        }
     .photo {
         background-color: #FFFFFF;
     }
