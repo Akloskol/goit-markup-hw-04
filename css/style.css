@@ -291,6 +291,10 @@ img {
             color: #404bbf;
         }
 
+        .customer-svg{
+            fill: currentColor;
+        }
+
     .photo {
         background-color: #FFFFFF;
     }
