@@ -258,6 +258,11 @@ img {
     .search-fn:is(:hover, :focus){
         background-color: #404bbf;
     }
+
+    .bjf-vdbj{
+        fill: #f4f4fd;
+    }
+    
     
     .name-spec{
         padding: 32px 16px;
